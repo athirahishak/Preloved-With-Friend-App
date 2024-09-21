@@ -17,5 +17,14 @@ For the development of the app and website, we use **Wix**, which provides a rob
 ## Getting Started
 To set up the project locally, clone the repository and follow the installation instructions provided in the documentation.
 
+## How the App Works
+The Preloved With Friend App allows users to buy and sell preloved clothing through a user-friendly interface. Users can register, create listings for their items, and browse products by category. The app supports secure transactions and provides a seamless experience for both buyers and sellers.
+
 ## Contributing
-We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute to the project.
+We welcome contributions to improve the Preloved With Friend App. Please follow these steps:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with a clear message.
+4. Push your branch and create a pull request detailing your changes.
+
+Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines on how to contribute to the project.
